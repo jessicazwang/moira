@@ -1,6 +1,6 @@
 <h1>MIT WebMoira list update scripting</h1>
 
-This quick script simulates a user manually adding individuals to a MIT mailman or moira mailing list.
+This quick script simulates a user manually adding individuals to a MIT mailman or moira mailing list. For Google Chrome only.
 
 <h3>To run:</h3>
  - Clone repo and navigate to folder
